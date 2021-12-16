@@ -1,6 +1,6 @@
 const { Thought, User } = require('../models');
 
-const ThoughtController = {
+const thoughtController = {
     getAllThoughts(req, res) {
         Thought.find({})
             .select('-__v')
@@ -92,4 +92,4 @@ const ThoughtController = {
     }
 }
 
-module.exports = ThoughtController;
+module.exports = thoughtController;
