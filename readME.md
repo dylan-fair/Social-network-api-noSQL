@@ -11,7 +11,7 @@ This is an api for a social media backend!
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
+* [Tech](#tech)
 * [Questions](#questions)
     
 ## Installation
@@ -30,9 +30,13 @@ GitHub
 
 Just Me
 
-## Tests
+## Tech
 
-None
+MobgoDb
+Mongoose
+Express.js
+Node.js
+Npm packages
 
 ## Questions
 [Link to my GitHub for further questions!](https://github.com/dylan-fair/Social-network-api-noSQL)
